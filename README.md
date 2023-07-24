@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **balarimikhail@gmail.com**
 
-- 📄 Know about my experiences [I have worked as a developer of industrial automation and digital transformation projects, supporting and advising the engineering department in various manufacturing industries.](I have worked as a developer of industrial automation and digital transformation projects, supporting and advising the engineering department in various manufacturing industries.)
+- 📄 Know about my experiences:
+   [I have worked as a developer of industrial automation and digital transformation projects, supporting and advising the engineering department in various manufacturing industries.](I have worked as a developer of industrial automation and digital transformation projects, supporting and advising the engineering department in various manufacturing industries.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
