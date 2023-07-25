@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhail.!!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate beginner developer from Argentina</h3>
 
 - 👀 I’m interested in the development of web and mobile applications oriented to the analysis of massive data and to IoT applications.
   
@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mikhail-Balari?tab=repositories](https://github.com/Mikhail-Balari?tab=repositories)
 
 - 📄 Know about my experiences:
-  I have worked as a developer of industrial automation and digital transformation projects, supporting and advising the engineering department in various            manufacturing industries.
+  Although I am a beginner in software development, I have solid experience in industrial PLC programming. I have worked as a developer of industrial automation      and digital transformation projects, leading, supporting and advising different areas of the industrial sector.
   
 - 📫 How to reach me **balarimikhail@gmail.com**
 
