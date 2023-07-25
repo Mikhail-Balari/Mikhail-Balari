@@ -27,7 +27,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
-    <p class="section">Web and Mobile</p>
+    <h4 class="section">Web and Mobile</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a> 
@@ -64,7 +64,7 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
-    <p class="section">IoT</p>
+    <h4 class="section">IoT</h4>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
@@ -89,7 +89,7 @@
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
     </a> 
-    <p class="section">Always</p>
+    <h4 class="section">Always</h4>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
