@@ -14,6 +14,12 @@
   
 - 📫 How to reach me **balarimikhail@gmail.com**
 
+<style>
+  .section {
+    margin-top: 20px;
+  }
+</style>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mikhail-balari-83b301178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhail balari" height="30" width="40" /></a>
@@ -21,7 +27,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
-    <p>Web and Mobile</p>
+    <p class="section">Web and Mobile</p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a> 
@@ -58,7 +64,7 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
-    <p>IoT</p>
+    <p class="section">IoT</p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
@@ -83,7 +89,7 @@
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
     </a> 
-    <p>Always</p>
+    <p class="section">Always</p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
